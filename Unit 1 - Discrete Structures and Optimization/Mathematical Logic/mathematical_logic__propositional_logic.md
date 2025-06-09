@@ -1,7 +1,3 @@
-Here are well-structured **notes on *Propositional Logic*** in the required UGC NET format:
-
----
-
 ## 1. Basic Understanding of the Topic Name
 
 **Propositional Logic**
