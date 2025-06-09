@@ -1,8 +1,8 @@
 ## 1. Basic Understanding of the Topic Name
 
 **Propositional Logic**
-👉 **Propositional**: refers to *propositions*, which are statements that are either **true** or **false**, but not both.
-👉 **Logic**: is the *systematic study of valid reasoning and inference*.
+-👉 **Propositional**: refers to *propositions*, which are statements that are either **true** or **false**, but not both.
+-👉 **Logic**: is the *systematic study of valid reasoning and inference*.
 
 **Together**: Propositional logic deals with *manipulating and analyzing whole statements* (propositions) using logical operators.
 
